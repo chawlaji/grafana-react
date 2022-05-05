@@ -1,2 +1,1 @@
-# grafana-react
-Created with CodeSandbox
+Integrate the project with redux
